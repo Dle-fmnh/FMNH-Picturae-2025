@@ -1,0 +1,16 @@
+Filename,Valid Filename,Corrupted,White Balanced,In Focus
+img001.tif,False,False,,
+img007.tif,False,False,,
+img008.jpg,False,False,,
+V0000000F.dng,True,True,,
+V0000005F.jpg,True,False,False,False
+V0507988F.dng,True,False,True,True
+V0507988F.jpg,True,False,True,True
+V0507989F.dng,True,False,True,True
+V0507989F.jpg,True,False,True,True
+V0507989F_a.dng,False,False,,
+V0507989F_a.jpg,False,False,,
+V0507990F.dng,True,False,True,True
+V0507990F.jpg,True,False,True,True
+V0507991F.dng,True,False,True,True
+V0507991F.jpg,True,False,True,True
